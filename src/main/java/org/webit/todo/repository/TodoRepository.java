@@ -7,7 +7,6 @@ import org.springframework.stereotype.Repository;
 import org.webit.todo.domain.TodoEntity;
 
 import java.util.List;
-import java.util.Optional;
 
 
 @Repository
